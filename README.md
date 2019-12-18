@@ -1,5 +1,5 @@
 # NBA-Shot-Predictions
-Mod 5 Project
+Mod 5 Project<br>
 Welcome to my NBA Shot Prediction Mod 5 Project
 Student.ipynb is the final notebook
 Shot_Logs_updated and Players_updated contains the source data sources from Kaggle
